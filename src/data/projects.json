@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Personal Blog App",
+    "images": [
+      "/projects/blog1.png",
+      "/projects/blog2.png",
+      "/projects/blog3.png"
+    ],
+    "category": "Design & Development",
+    "link": "https://mdkayeshblog.vercel.app/",
+    "buildWith": [
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Node.js",
+      "MongoDB"
+    ],
+    "description": "Welcome to my blog, I'm Md Kayesh a Senior Front End Developer, and this is where I share my passion about programming, design and development thoughts. I believe in a practical approach, so here I document my latest explorations. Learn about the latest trends, JavaScript tips, and user experience advice. Get easy-to-understand guides and personal insights from me.",
+    "year": "2024",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "EasyShop",
+    "images": [
+      "/projects/easyshop1.png",
+      "/projects/easyshop2.png",
+      "/projects/easyshop3.png",
+      "/projects/easyshop4.png"
+    ],
+    "category": "Design & Development",
+    "link": "https://easyshops.vercel.app/",
+    "buildWith": [
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Node.js",
+      "MongoDB"
+    ],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2024",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "Dusk",
+    "images": [
+      "/projects/dusk1.png",
+      "/projects/dusk2.png",
+      "/projects/dusk3.png"
+    ],
+    "category": "Design & Development",
+    "link": "https://dusk-personal-portfolio-template.vercel.app/",
+    "buildWith": ["TypeScript", "React", "Tailwind CSS"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2024",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "Tubemate",
+    "images": [
+      "/projects/tubemate1.png",
+      "/projects/tubemate2.png",
+      "/projects/tubemate3.png"
+    ],
+    "category": "Design & Development",
+    "link": "https://easyshops.vercel.app/",
+    "buildWith": ["TypeScript", "Vue", "Tailwind CSS", "RapidApi"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2023",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "MoviesHub",
+    "images": ["/projects/movies1.png", "/projects/movies2.png"],
+    "category": "Design & Development",
+    "link": "https://movieshub-md.vercel.app/",
+    "buildWith": ["JavaScript", "React", "Tailwind CSS", "TMDB API"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2023",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "Ak Fahion",
+    "images": [
+      "/projects/akfashion1.png",
+      "/projects/akfashion2.png",
+      "/projects/akfashion3.png"
+    ],
+    "category": "Design & Development",
+    "link": "https://akfashion.vercel.app/",
+    "buildWith": ["JavaScript", "Next.js", "Redux", "Tailwind CSS", "Firebase"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2023",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "Portfolio(v3)",
+    "images": [
+      "/projects/v3portfolio1.png",
+      "/projects/v3portfolio2.png",
+      "/projects/v3portfolio3.png"
+    ],
+    "category": "Design & Development",
+    "link": "https://mdkayesh.vercel.app/",
+    "buildWith": ["TypeScript", "Next.js", "Tailwind CSS", "Firebase"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2023",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "Furns",
+    "images": [
+      "/projects/furns2.png",
+      "/projects/furns1.png",
+      "/projects/furns3.png"
+    ],
+    "category": "Development",
+    "link": "https://furns-app.netlify.app/",
+    "buildWith": ["JavaScript", "React", "SCSS", "Firebase"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2023",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "Portfolio(v2)",
+    "images": ["/projects/v2portfolio1.png", "/projects/v2portfolio2.png"],
+    "category": "Design & Development",
+    "link": "https://md-kayesh-v2.vercel.app/",
+    "buildWith": ["Next.js", "Tailwind CSS", "JavaScript", "Firebase"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2022",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "Zoom",
+    "images": [
+      "/projects/zoom1.png",
+      "/projects/zoom2.png",
+      "/projects/zoom3.png"
+    ],
+    "category": "Development",
+    "link": "https://zoom-ecommerce-clone-app.netlify.app/",
+    "buildWith": ["React", "Tailwind CSS", "JavaScript", "Firebase"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2022",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "Portfolio Template",
+    "images": [
+      "/projects/template1.png",
+      "/projects/template2.png",
+      "/projects/template3.png",
+      "/projects/template4.png"
+    ],
+    "category": "Development",
+    "link": "https://react-portfolio-clone-by-md-kayesh.netlify.app/",
+    "buildWith": ["React", "SCSS", "JavaScript", "Firebase"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2022",
+    "gitUrl": "https://github.com/"
+  },
+  {
+    "title": "Nody",
+    "images": [
+      "/projects/nody1.png",
+      "/projects/nody2.png",
+      "/projects/nody3.png"
+    ],
+    "category": "Development",
+    "link": "https://nody-react.netlify.app/",
+    "buildWith": ["JavaScript", "React", "CSS3", "HTML5"],
+    "description": "EasyShop is the user-friendly and 100% SEO friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "year": "2022",
+    "gitUrl": "https://github.com/"
+  }
+]
